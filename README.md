@@ -35,7 +35,14 @@
   - Displaying all Staff on Vacation
   - Help Menu's
  - Is hosted remotely on Heroku using a previously used GitHub pipeline, but has been manually switched to Git after a Oath Data Leak.
- 
+
+###### Dictionary Bot
+
+- Used Discord API, FFmpeg and DictionaryAPI to grab definitions, phonetics, synonyms and pronunciations of words that exist in the APi Database.
+  - Separates definitions between types of words (Nouns, Verbs, Adjectives)
+  - Different commands for either synonyms, pronunciations and whole definitions
+  - Allows bot to join a voic channel and pronounce words using FFmpeg 
+
 ###### Duel Bot (In Development)
  
 - Used the Discord API and MySQL to code a Discord Bot that enables 2 users to engage in a Harry Potter themed duel. This bot was purposed to allow members of 15k+ member Discord Server to engage in events and promote server activity. The features of the bot include:
