@@ -13,6 +13,7 @@
 - Python: 3+ years
 - Javascript: 1 year
 - MySQL: 2 years
+- HTML: 2 years
 
 ## Python Module Proficieny
 
