@@ -10,8 +10,8 @@
 
 ## Coding Experience
 
-- Python: 3+ years
-- Javascript: 1 year
+- Python: 5+ years
+- Javascript: 2 years
 - MySQL: 2 years
 - HTML: 2 years
 
