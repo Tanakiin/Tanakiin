@@ -1,5 +1,7 @@
-### Tanay Reddy
-
+<h1 align="center">
+Tanay Reddy
+</h1>
+ 
 ## About Me
 
 - I am currently a Sophomore studying Computer Engineering at Michigan State University
