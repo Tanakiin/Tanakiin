@@ -10,6 +10,8 @@
 
 ## Coding Experience
 
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanakiin)](https://github.com/Tanakiin)
+
 - Python: 5+ years
 - Javascript: 2 years
 - MySQL: 2 years
