@@ -10,7 +10,7 @@
 
 ## Coding Experience
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakiin&layout=compact)](https://github.com/Tanakiin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakiin&layout=compact&show_icons=true&theme=radical)](https://github.com/Tanakiin)
 
 - Python: 5+ years
 - Javascript: 2 years
