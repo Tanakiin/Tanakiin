@@ -10,12 +10,12 @@
 
 ## Coding Experience
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakiin&layout=compact&show_icons=true&theme=transparent)](https://github.com/Tanakiin)
-
 - Python: 5+ years
 - Javascript: 2 years
 - MySQL: 2 years
 - HTML: 2 years
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakiin&layout=compact&show_icons=true&theme=github_dark )](https://github.com/Tanakiin)
 
 ## Python Module Proficieny
 
