@@ -18,7 +18,6 @@ Tanay Reddy
 - HTML: 2 years
 - C++: 1 year
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanakiin&layout=compact&show_icons=true&theme=github_dark )](https://github.com/Tanakiin)
 
 ## Python Module Proficieny
 
