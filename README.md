@@ -4,7 +4,7 @@ Tanay Reddy
  
 ## About Me
 
-- I am currently a Sophomore studying Computer Engineering at Michigan State University
+- I am currently a Junior studying Computer Engineering at Michigan State University
 - I enjoy coding, working out, gaming and drawing
 - I constantly strive to broaden my knowledge on new technologies
 - I am open to collaboration and opportunities to discuss and learn more about the ever-growing field of technology.
