@@ -8,7 +8,6 @@ Tanay Reddy
 - I enjoy coding, working out, gaming and drawing
 - I constantly strive to broaden my knowledge on new technologies
 - I am open to collaboration and opportunities to discuss and learn more about the ever-growing field of technology.
-- I am taking a Graphic Design Minor and might pursue UI Design
 
 ## Coding Experience
 
