@@ -18,11 +18,6 @@ Tanay Reddy
 - HTML: 4 years
 - C++: 2 years
 
-## Python Module Proficieny
-
-- MySQL: Hightly Proficient
-- Numpy and Matplotlib: Intermediate-Level Proficiency
-
 ## Contact Me
 
 - My Email: tanakiins@gmail.com
