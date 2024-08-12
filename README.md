@@ -11,12 +11,12 @@ Tanay Reddy
 
 ## Coding Experience
 
-- Python: 5+ years
-- Javascript: 2 years
-- MySQL: 3 years
-- PostgreSQL: 2 years
-- HTML: 3 years
-- C++: 1 year
+- Python: 6+ years
+- Javascript: 3 years
+- MySQL: 4 years
+- PostgreSQL: 3 years
+- HTML: 4 years
+- C++: 2 years
 
 ## Python Module Proficieny
 
