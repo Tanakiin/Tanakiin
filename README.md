@@ -4,10 +4,8 @@ Tanay Reddy
  
 ## About Me
 
-- I am currently a Senior studying Computer Engineering focusing on a concentration in Software Systems at Michigan State University
-- I enjoy coding, working out, gaming and drawing
-- I constantly strive to broaden my knowledge on new technologies
-- I am open to collaboration and opportunities to discuss and learn more about the ever-growing field of technology.
+- I am currently a Senior studying Computer Engineering focusing on a concentration in Software Systems.
+- I like making tools that help solve simple problems and aid in quality of life.
 
 ## Coding Experience
 
@@ -18,7 +16,3 @@ Tanay Reddy
 - HTML: 4 years
 - C++: 2 years
 
-## Contact Me
-
-- My Email: tanakiins@gmail.com
-- My [LinkedIn](https://www.linkedin.com/in/tanay-reddy-a69044222/)
