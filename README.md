@@ -20,7 +20,6 @@ Tanay Reddy
 
 ## Python Module Proficieny
 
-- Discord.py: Highly Proficient
 - MySQL: Hightly Proficient
 - Numpy and Matplotlib: Intermediate-Level Proficiency
 
