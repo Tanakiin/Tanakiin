@@ -16,3 +16,6 @@ Tanay Reddy
 - HTML: 4 years
 - C++: 2 years
   
+## Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/Tanakiin/count.svg)
