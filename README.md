@@ -10,11 +10,10 @@ Tanay Reddy
 ## Coding Experience
 
 - Python: 6+ years
+- C++: 4+ years
 - Javascript: 3 years
 - MySQL: 4 years
 - PostgreSQL: 3 years
-- HTML: 4 years
-- C++: 2 years
   
 ## Visitors
 
