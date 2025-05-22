@@ -1,20 +1,24 @@
-<h1 align="center">
-Tanay Reddy
-</h1>
- 
+<h1 align="center">Tanay Reddy</h1>
+
 ## About Me
+I just wrapped up my B.S. in Computer Engineering at Michigan State, carving a niche at the intersection of embedded hardware and software. Whether it’s squeezing a 1-D CNN onto a microcontroller, or spinning up a quick Python tool to save everyone a few clicks, I’m happiest when code makes life easier.
 
-- I am currently a Senior studying Computer Engineering focusing on a concentration in Software Systems.
-- I like making tools that help solve simple problems and aid in quality of life.
+* 🔧 **Interests:** Embedded systems, real-time signal processing, wearables, dev-ops for small teams  
+* 🛠 **Philosophy:** Ship small, learn fast, iterate  
+* 🌱 **Currently exploring:** Rust for bare-metal firmware and LangChain for lightweight LLM apps  
 
-## Coding Experience
+---
 
-- Python: 6+ years
-- C++: 4+ years
-- Javascript: 3 years
-- MySQL: 4 years
-- PostgreSQL: 3 years
-  
-## Visitors
+## Skillset
+| Language / Tech | Years | Quick Blurb |
+|-----------------|-------|-------------|
+| **Python**      | 6+    | Data wrangling, Flask, FastAPI, Matplotlib |
+| **C / C++**     | 4+    | STM32, ARM-M, low-level drivers |
+| **JavaScript / TS** | 3 | React, Node, small-footprint UIs |
+| **SQL (MySQL & PostgreSQL)** | 4 | Schema design, query tuning |
+| **TensorFlow / Keras** | 3 | TinyML, 1-D CNNs on sensor streams |
 
-![Visitor Count](https://profile-counter.glitch.me/Tanakiin/count.svg)
+---
+
+<img src="https://profile-counter.glitch.me/Tanakiin/count.svg" alt="visitor counter"/>
+
