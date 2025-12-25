@@ -1,7 +1,7 @@
 <h1 align="center">Tanay Reddy</h1>
 
 ## About Me
-I just wrapped up my B.S. in Computer Engineering at Michigan State, carving a niche at the intersection of embedded hardware and software. Whether it’s squeezing a 1-D CNN onto a microcontroller, or spinning up a quick Python tool to save everyone a few clicks, I’m happiest when code makes life easier.
+I just wrapped up my B.S. in Computer Engineering at Michigan State, usually diving into embedded hardware projects, dealing with wearable sensors or making scripts and tools to simplify things for me. I’m happiest when code makes life easier.
 
 ---
 
